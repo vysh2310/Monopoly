@@ -1,4 +1,4 @@
-// board.cpp
+// board.cpp file
 
 #include <cstdlib>
 #include <iostream>
