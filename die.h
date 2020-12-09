@@ -1,5 +1,5 @@
 // die.h
-
+//This file is a header
 #ifndef die_header
 #define die_header
 
