@@ -6,7 +6,7 @@
 #include "player.h"
 #include "square.h"
 #include "die.h"
-
+//player.cpp
 player::player(const std::string & a_name)
 {
 	set_name(a_name);
